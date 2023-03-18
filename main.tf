@@ -1,6 +1,6 @@
 # Configure the GCP provider
 provider "google" {
-  project = "my-project"
+  project = "terraform-learning-371709"
   region  = "us-central1"
 }
 
