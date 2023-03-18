@@ -14,3 +14,4 @@ sudo systemctl status jenkins
 
 #Browse to http://<VM's external IP address>:8080
 #Follow the onscreen commands to setup Jenkins
+#need to assign compute instance admin v1 role to the service account assigned to jenkins vm to deploy the vm's
